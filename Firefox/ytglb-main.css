@@ -1,0 +1,23 @@
+.ytglb-toolbar-container
+{
+    display: inline-block;
+    position: relative;
+}
+
+.ytglb-toolbar-wrapper
+{
+    padding: 0;
+    align-items: center;
+    flex: none;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+.ytglb-live-icon
+{
+    height: 40px;
+    width: 40px;
+    padding: 18px 14px 18px 16px;
+    border-radius: 25px
+}
